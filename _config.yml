@@ -1,0 +1,14 @@
+layout_spectrum: 0.4179324433207512
+typography_spectrum: 0.3571693154517561
+color:
+  brandStrength: 0.7544247377663851
+  lightness: 0.10677509079687297
+  saturation: 0.1939779189415276
+  rhythmicContrast: 0.3035559765994549
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Inscape
